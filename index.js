@@ -44,7 +44,7 @@ module.exports = {
                         </nav>"
             },
             "body:end": function() {
-                return "<div class="navbar-footer">
+                return "<div class=\"navbar-footer\">
                             Powered by Matrix and FSMK
                         </div>"
             },
